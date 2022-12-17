@@ -1,7 +1,7 @@
 # java-sum-Big-Intdeger
 The chanlenge here is to sum big integers without making use of bigdata in java.
-## A program that adds together large integers. The built-in type int has a 
-maximum value of 2,147,483,647. Anything larger will cause what is known as overflow. Java 
+## A program that adds together large integers. 
+The built-in type int has a maximum value of 2,147,483,647. Anything larger will cause what is known as overflow. Java 
 also has a type called long that has a larger range, but even values of type long can be at most 
 9,223,372,036,854,775,807.
 The approach you are to implement is to store each integer in an array of digits, with one digit per 
