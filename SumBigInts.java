@@ -1,7 +1,4 @@
 // Name: Manasse Bosango
-// Course:CS 210
-// Date: 06/02/20222
-// Classs: CS210
 // Reason: Understand the importance and the use of array data type in java and programming
 
 // This program reads an input file that contains sequences of integers to
